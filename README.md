@@ -1,9 +1,13 @@
 # HyunchulPortfolio.com
 
-Standalone public portfolio with administrator password login. Deploy with render.yaml. Set ADMIN_PASSWORD (12+ characters) directly in Render. SESSION_SECRET is generated automatically. Uploads and SQLite live on /var/data persistent disk (1 GB). Never commit secrets.
+Free static portfolio on Render. No server or database charges are configured. Visitor access needs no login.
+
+## Publish changes
+Open the site's edit tool, edit your profile/games, and export content.json. Upload that file to this repository root using GitHub (only repository collaborators can publish). Commit changes; Render automatically rebuilds. Local editing does not change the live site. Unpublished games are excluded from export; preserve their text separately.
+
+Images: PNG/JPG/WebP up to 2 MB are embedded in content.json. Host games on itch.io and paste a playable embed URL; native builds and videos use external links.
 
 Build: npm install --include=dev && npm run build
-Start: npm start
-Tests: npm test
+Publish directory: public
 
-Single-file HTML games and external web game embeds are supported. ZIP uploads provide downloads. Custom .com domain requires ownership and DNS setup.
+The render.yaml defines only a static site; do not deploy the older Node server configuration. A custom .com domain requires separate registration and DNS. Render free-tier usage allowances still apply.
