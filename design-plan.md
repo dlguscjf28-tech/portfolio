@@ -1,9 +1,10 @@
-Kind: gaming / personal game developer portfolio
-Facts: existing name Hyunchul; no published games; existing profile content and GitHub publish workflow preserved.
-Direction: user-requested pixel workshop, game-like exploration, TtukttakGamja display and Galmuri body. Fonts override the dealt Google font pairing. Pixel illustration overrides stock photographs: it depicts the portfolio's interface world, not an invented game.
-Palette: walnut-tan was dealt. A warm parchment daylight surface with green controls adapts the wood-and-earth direction to body readability; the dusk workshop stays inside the main visual.
-Screens: hero with name, two actions and interactive pixel workshop; games with filters and readable cards; developer note; contact mailbox.
-Motion: one hero entrance; a slow cloud/smoke/water loop in the hero; button responses; walking character and three collectible stars only on click. Reduced-motion mode stops continuous motion.
-Interaction replaces dealt letters-assemble moment because user prioritizes readability and an actual pixel game feeling. No fake games, contact details or career claims added.
-Music: original A small save point, 56 BPM, 8 bars Cmaj7-Am7-Fmaj7-G6; synthesized sine pads and sparse triangle melody, manual start, low volume, visibility and game-play pause.
-Editor: readable labels and spacing, separate local save and public export, local browser autosave, original GitHub publication permission boundary.
+Kind: gaming / interactive portfolio. A single custom Canvas 2D platformer takes precedence over the skill's marketing-site section templates because the user explicitly requested a walkable world.
+Art direction: After Hours Archive. Limited ink/blue-grey/amber/lime palette, pixel-built industrial architecture, no fake games or work. Existing requested TtukttakGamja + Galmuri retained.
+One main visual: banded dusk, Bayer-like dither, pixel skyline, two parallax layers, terminal machines, original traveller sprite. CRT and scanlines stay over the canvas only; VHS grain is low opacity; a 180ms glitch occurs only on terminal transitions. Reduced motion removes grain movement, glitch and camera easing. CRT can be disabled.
+Interaction: accelerate/decelerate, fixed 120Hz physics, variable jump, coyote time, jump buffer, one-way raised platforms, smooth camera, terminal proximity, E/click interaction, signal collection, keyboard and touch controls. Direct game library and teleport shortcuts provide an accessible alternative.
+Content: published records become real in-world terminals; empty slots are clearly labelled. Modal details preserve project role, period, team, screenshots, video, links and external play. No invented projects.
+Audio: original ambient sine score starts automatically where browser policy permits, otherwise resumes on the first pointer/key gesture. Continuous across panels and editor. Retro square-wave effects are restricted to actions, with master mute/volume and lowered background music during a playable game.
+Editor: retained, separately styled for dark-theme readability; browser drafts, preview and export-to-GitHub publication unchanged. No paid service added.
+Verification: physics tests, browser movement/proximity/keyboard entry, mobile touch and layout, publishing checks. The default Taste Skill marketing-layout gate cannot validate a full Canvas platformer; do not claim it passes.
+
+User steering: remove all ornamental English terminal/file/footer text and large desktop touch controls. Palette choices: blue/coral, plum/apricot and teal/lime; selection persists locally. All world pixels repaint each frame. A real browser framebuffer comparison across three palettes reports 0 changed color channels after travelling versus rendering fresh, preventing sprite trails.
