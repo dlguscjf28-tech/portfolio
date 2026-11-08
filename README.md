@@ -11,3 +11,5 @@ Build: npm install --include=dev && npm run build
 Publish directory: public
 
 The render.yaml defines only a static site; do not deploy the older Node server configuration. A custom .com domain requires separate registration and DNS. Render free-tier usage allowances still apply.
+
+Pixel workshop redesign: TtukttakGamja display font and Galmuri body font are loaded from their published webfont URLs. A custom pixel landscape supports optional star collection and character walking. Original background music is synthesized with Web Audio at 56 BPM (manual start, volume control, pauses when hidden or while a game plays). The administrator editing tool saves drafts in this browser and previews them locally; public changes still require exporting content.json and committing it to GitHub. No server or new paid resource is required.

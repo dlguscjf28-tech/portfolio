@@ -4,3 +4,5 @@ data/
 .env*
 !.env.example
 local-build.mjs
+.taste-skill/
+preview.mjs
