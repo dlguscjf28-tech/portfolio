@@ -1,14 +1,14 @@
 {
   "profile": {
     "name": "Hyunchul",
-    "role": "GAME DEVELOPER",
-    "intro": "상상을 플레이 가능한 경험으로.",
-    "about": "게임을 만들고, 그 과정에서 배운 것들을 기록합니다.",
+    "role": "",
+    "intro": "스팀에 5개 이상 출시하는 그 날까지.",
+    "about": "게임 개발",
     "photo": "",
-    "email": "",
-    "github": "",
+    "email": "dlguscjf28@gmail.com",
+    "github": "https://github.com/dlguscjf28-tech",
     "itch": "https://chichi0009.itch.io",
-    "skills": "",
+    "skills": "게임 개발, 2D와 3D 그래픽 전형, 1인 개발 가능, AI 활",
     "resume": ""
   },
   "games": [
