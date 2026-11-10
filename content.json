@@ -7,9 +7,33 @@
     "photo": "",
     "email": "",
     "github": "",
-    "itch": "",
+    "itch": "https://chichi0009.itch.io",
     "skills": "",
     "resume": ""
   },
-  "games": []
+  "games": [
+    {
+      "id": "anomaly",
+      "title": "An§maly",
+      "summary": "마우스로 그린 선이 움직임이 되는 2D 퍼즐 플랫포머.",
+      "image": "https://img.itch.zone/aW1hZ2UvNTMyMjc3OC8zMTk4NDMyOC5wbmc=/347x500/rKfCzX.png",
+      "genre": "퍼즐 플랫포머",
+      "engine": "Unity",
+      "role": "",
+      "period": "",
+      "team": "",
+      "description": "제 7회 직업계고 IT분야 취업창업UP 게임 개발대회 3등 작품.\n\n선을 그리고 기호를 그려 캐릭터를 움직이는 2D 퍼즐 플랫포머입니다. 나뭇가지를 활용해 길을 찾고, 다양한 장애물을 넘어 보세요.",
+      "contribution": "",
+      "controls": "마우스만 사용하여 플레이 하세요. 처음에는 타이틀에서 S를 그려 튜토리얼을 진행해 주세요.",
+      "playUrl": "https://itch.io/embed-upload/20417025?color=333333",
+      "html": "",
+      "download": "",
+      "github": "",
+      "video": "",
+      "screenshots": "https://img.itch.zone/aW1hZ2UvNTMyMjc3OC8zMTk4NDMyOS5wbmc=/original/ru3pxn.png\nhttps://img.itch.zone/aW1hZ2UvNTMyMjc3OC8zMTk4NDMyNy5wbmc=/original/o33b7D.png",
+      "published": true,
+      "featured": true,
+      "mobile": false
+    }
+  ]
 }
